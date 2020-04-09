@@ -1,1 +1,0 @@
-Place all clean speech .wav files for training here.
